@@ -1,4 +1,4 @@
-# kintone_template_for_gameni
+# kintoapp-template-for-gameni
 GAMENI用に作成したkintoneアプリのテンプレートです！
 
 ## GAMENI リンク
